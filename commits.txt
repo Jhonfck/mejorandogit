@@ -1,0 +1,35 @@
+commit 3b67dfa5d2e165e8503465ff9ebc92ff05dd4004
+Author: John Alejandro Rios <jhonwkf@gmail.com>
+Date:   Tue Mar 8 22:21:22 2016 -0500
+
+    adicione un portafolio al proyecto
+
+commit 3ed61213baf6069ae120e27d702d6c8a2e0f32de
+Author: John Alejandro Rios <jhonwkf@gmail.com>
+Date:   Tue Mar 8 22:19:00 2016 -0500
+
+    agregue descripción
+
+commit 2cca773868ca79882f89ce33caba94c1d3325659
+Author: John Alejandro Rios <jhonwkf@gmail.com>
+Date:   Tue Mar 8 22:16:46 2016 -0500
+
+    agregue redes sociales
+
+commit d79798e6113cbb66a3a016723ada2cf67304702f
+Author: John Alejandro Rios <jhonwkf@gmail.com>
+Date:   Tue Mar 8 22:13:17 2016 -0500
+
+    se adiciono perfil web
+
+commit f74987461118d261cd458c19856e38fc7345bc4c
+Author: John Alejandro Rios <jhonwkf@gmail.com>
+Date:   Tue Mar 8 22:09:02 2016 -0500
+
+    subi foto de perfil y adicione nombre
+
+commit e962010c028a89e9f03734749fc771ff066275cc
+Author: John Alejandro Rios <jhonwkf@gmail.com>
+Date:   Tue Mar 8 21:55:45 2016 -0500
+
+    Estos son los archivos base de mi proyecto
